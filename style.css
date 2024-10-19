@@ -49,7 +49,6 @@ img {
     max-width: 500px;
     justify-content: space-between;
     min-width: 300px;
-    
 }
 h1 {
     font-size: 48px;
@@ -69,4 +68,72 @@ button {
     border-radius: 10px;
     color: #f9faf8;
     max-width: 110px;
+}
+.info img {
+    max-width: 250px;
+}
+.info-section-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 36px;
+    padding: 36px;
+    margin-bottom: 32px;
+}
+.info-boxes-container {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+    text-align: center;
+    gap: 16px;
+}
+.info-heading {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.quote-section p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+.quote-section {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 60px 36px;
+    gap: 24px;
+}
+.quote-section p {
+    max-width: 1000px;
+}
+.quote-section .author {
+    margin-left: auto;
+    font-style: normal;
+    font-weight: bold;
+}
+.action-section {
+    display: flex;
+    justify-content: center;
+}
+.action-box {
+    display: flex;
+    width: 1200px;
+    background-color: #3882f6;
+    padding: 24px 72px;
+    border-radius: 12px;
+    justify-content: space-between;
+}
+.action-box button {
+    padding: 
+    border-color: #e5e7eb;
 }

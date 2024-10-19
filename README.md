@@ -1,2 +1,8 @@
 # landing_page
 A project from the odin project for learning CSS
+Photo by <a href="https://unsplash.com/@adityachinchure?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aditya Chinchure</a> on <a href="https://unsplash.com/photos/gray-high-rise-building-in-golden-hour-background-Bs_ac8eRkME?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@mia_dj?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mia de Jesus</a> on <a href="https://unsplash.com/photos/a-bridge-with-a-sign-that-reads-granville-island-Jq5DaJUYzeQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@adityachinchure?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aditya Chinchure</a> on <a href="https://unsplash.com/photos/cars-on-gray-concrete-road-during-daytime-ghbepAO7BCs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@mslucyclaire?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Lucy Claire</a> on <a href="https://unsplash.com/photos/round-black-and-white-analog-wall-clock-anEgzevL0Pk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@franzharvin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Franz Harvin Aceituna</a> on <a href="https://unsplash.com/photos/cityscape-by-night-photography-lAtB1MVe3S0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
