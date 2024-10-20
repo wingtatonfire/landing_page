@@ -4,22 +4,25 @@
     font-family: 'Roboto';
 }
 
-.header {
+.header-container {
     display: flex;
-    justify-content: space-between;
-    background-color: #1f2937;
-    padding: 14px;
+    flex-direction: column;
+    max-width: 1900px;
 }
-.header .logo {
+
+
+.logo {
     font-weight: 900;
     font-size: 24px;
     color: #F9FAF8;
     text-decoration: none;
 }
+
 .header-list {
     display: flex;
     gap: 20px;
-    align-items: center;;
+    align-items: center;
+    ;
 }
 
 .header-list a {
@@ -31,25 +34,29 @@
 li {
     list-style-type: none;
 }
+
 img {
-    max-width: 500px;
+    max-width: 400px;
 }
+
 .hero-container {
     display: flex;
-    justify-content: center;
-    padding: 48px;
+    justify-content: space-between;
     background-color: #1f2937;
-    gap: 36px;
     flex-wrap: wrap;
+    padding: 72px 12px;
+    
 }
+
 .hero-left {
     display: flex;
     flex-direction: column;
     gap: 24px;
-    max-width: 500px;
+    max-width: 450px;
     justify-content: space-between;
     min-width: 300px;
 }
+
 h1 {
     font-size: 48px;
     color: #f9faf8;
@@ -69,9 +76,11 @@ button {
     color: #f9faf8;
     max-width: 110px;
 }
+
 .info img {
     max-width: 250px;
 }
+
 .info-section-container {
     display: flex;
     flex-direction: column;
@@ -80,6 +89,7 @@ button {
     padding: 36px;
     margin-bottom: 32px;
 }
+
 .info-boxes-container {
     display: flex;
     justify-content: center;
@@ -87,6 +97,7 @@ button {
     flex-wrap: wrap;
 
 }
+
 .info {
     display: flex;
     flex-direction: column;
@@ -94,6 +105,7 @@ button {
     text-align: center;
     gap: 16px;
 }
+
 .info-heading {
     font-size: 36px;
     color: #1f2937;
@@ -105,26 +117,25 @@ button {
     font-style: italic;
     color: #1f2937;
 }
+
 .quote-section {
     background-color: #e5e7eb;
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    justify-content: center;
     padding: 60px 36px;
-    gap: 24px;
 }
-.quote-section p {
-    max-width: 1000px;
-}
+
 .quote-section .author {
     margin-left: auto;
     font-style: normal;
     font-weight: bold;
 }
+
 .action-section {
     display: flex;
     justify-content: center;
 }
+
 .action-box {
     display: flex;
     width: 1200px;
@@ -132,8 +143,41 @@ button {
     padding: 24px 72px;
     border-radius: 12px;
     justify-content: space-between;
+    margin: 72px 0px;
 }
+
 .action-box button {
-    padding: 
+    padding: 0px 12px;
     border-color: #e5e7eb;
+    background-color: #1f2937;
+    min-width: 140px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 32px;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+    max-width: 1000px;
+}
+
+.one {
+    display: flex;
+    justify-content: space-between;
+    padding: 18px 12px;
+}
+.two {
+    width: 900px;
+}
+.three {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+
 }
